@@ -1,0 +1,15 @@
+D:\visual stodio exp\xml\Xpath Query\Xpath Query\bin\Debug\Xpath Query.exe.config
+D:\visual stodio exp\xml\Xpath Query\Xpath Query\bin\Debug\Xpath Query.exe
+D:\visual stodio exp\xml\Xpath Query\Xpath Query\bin\Debug\Xpath Query.pdb
+D:\visual stodio exp\xml\Xpath Query\Xpath Query\obj\Debug\Xpath Query.csprojResolveAssemblyReference.cache
+D:\visual stodio exp\xml\Xpath Query\Xpath Query\obj\Debug\MainWindow.g.cs
+D:\visual stodio exp\xml\Xpath Query\Xpath Query\obj\Debug\App.g.cs
+D:\visual stodio exp\xml\Xpath Query\Xpath Query\obj\Debug\Xpath Query_MarkupCompile.cache
+D:\visual stodio exp\xml\Xpath Query\Xpath Query\obj\Debug\Xpath Query_MarkupCompile.lref
+D:\visual stodio exp\xml\Xpath Query\Xpath Query\obj\Debug\MainWindow.baml
+D:\visual stodio exp\xml\Xpath Query\Xpath Query\obj\Debug\Xpath Query.g.resources
+D:\visual stodio exp\xml\Xpath Query\Xpath Query\obj\Debug\Xpath_Query.Properties.Resources.resources
+D:\visual stodio exp\xml\Xpath Query\Xpath Query\obj\Debug\Xpath Query.csproj.GenerateResource.cache
+D:\visual stodio exp\xml\Xpath Query\Xpath Query\obj\Debug\Xpath Query.csproj.CoreCompileInputs.cache
+D:\visual stodio exp\xml\Xpath Query\Xpath Query\obj\Debug\Xpath Query.exe
+D:\visual stodio exp\xml\Xpath Query\Xpath Query\obj\Debug\Xpath Query.pdb
